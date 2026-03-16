@@ -1,0 +1,142 @@
+[
+{
+"number":101,
+"name":"Ace of Swords",
+"title":"Sang Percikan Kebenaran",
+"role":"Pembuka jalan bagi pikiran yang tajam.",
+"traits":"tajam, jernih, logis, menentukan",
+"prophecy":"Sebuah kebenaran atau ide baru akan muncul dengan jelas. Keputusan yang diambil dengan logika dapat membuka jalan menuju perubahan.",
+"warning":"Ketajaman pikiran tanpa empati dapat melukai orang lain.",
+"image":"ace_of_swords.png"
+},
+{
+"number":102,
+"name":"Two of Swords",
+"title":"Sang Penutup Mata",
+"role":"Penjaga keseimbangan di tengah kebingungan.",
+"traits":"ragu, tertutup, defensif, tenang",
+"prophecy":"Kamu berada di antara dua pilihan yang sulit. Keputusan mungkin tertunda karena kamu belum siap melihat kenyataan sepenuhnya.",
+"warning":"Menghindari keputusan terlalu lama dapat memperburuk keadaan.",
+"image":"two_of_swords.png"
+},
+{
+"number":103,
+"name":"Three of Swords",
+"title":"Sang Luka Hati",
+"role":"Pembawa kesadaran melalui rasa sakit.",
+"traits":"terluka, emosional, jujur, menyakitkan",
+"prophecy":"Sebuah kekecewaan atau luka hati dapat muncul. Meski menyakitkan, pengalaman ini membuka pemahaman yang lebih dalam tentang dirimu.",
+"warning":"Menahan rasa sakit tanpa menghadapinya dapat memperpanjang penderitaan.",
+"image":"three_of_swords.png"
+},
+{
+"number":104,
+"name":"Four of Swords",
+"title":"Sang Istirahat Batin",
+"role":"Penjaga pemulihan dalam keheningan.",
+"traits":"tenang, reflektif, lelah, memulihkan",
+"prophecy":"Saat untuk berhenti sejenak dan memulihkan energi. Ketika pikiran tenang, solusi dapat muncul dengan lebih jelas.",
+"warning":"Istirahat yang terlalu lama dapat berubah menjadi kemalasan.",
+"image":"four_of_swords.png"
+},
+{
+"number":105,
+"name":"Five of Swords",
+"title":"Sang Kemenangan Pahit",
+"role":"Pemenang yang meninggalkan konflik.",
+"traits":"kompetitif, dingin, licik, egois",
+"prophecy":"Sebuah konflik mungkin berakhir dengan kemenangan yang tidak sepenuhnya memuaskan. Ada harga yang harus dibayar dalam perselisihan ini.",
+"warning":"Keinginan untuk menang dapat merusak hubungan penting.",
+"image":"five_of_swords.png"
+},
+{
+"number":106,
+"name":"Six of Swords",
+"title":"Sang Penyeberang",
+"role":"Pembawa perjalanan menuju keadaan yang lebih tenang.",
+"traits":"tenang, bergerak maju, pasrah, berharap",
+"prophecy":"Kamu akan meninggalkan situasi sulit menuju keadaan yang lebih stabil. Perjalanan ini mungkin tidak mudah, tetapi membawa harapan baru.",
+"warning":"Melarikan diri dari masalah tanpa menyelesaikannya dapat membuatnya kembali muncul.",
+"image":"six_of_swords.png"
+},
+{
+"number":107,
+"name":"Seven of Swords",
+"title":"Sang Penyelinap",
+"role":"Pengambil jalan tersembunyi.",
+"traits":"licik, cerdik, rahasia, berhati-hati",
+"prophecy":"Seseorang mungkin bertindak diam-diam atau menyembunyikan sesuatu. Situasi menuntut kecerdikan dan kewaspadaan.",
+"warning":"Tipu daya atau pengkhianatan dapat merusak kepercayaan.",
+"image":"seven_of_swords.png"
+},
+{
+"number":108,
+"name":"Eight of Swords",
+"title":"Sang Tawanan Pikiran",
+"role":"Korban dari batasan yang diciptakan sendiri.",
+"traits":"terjebak, takut, bingung, pasif",
+"prophecy":"Kamu mungkin merasa terjebak oleh keadaan atau pikiranmu sendiri. Batasan yang terlihat kuat sebenarnya masih dapat dilepaskan.",
+"warning":"Ketakutan yang tidak dihadapi dapat membuatmu tetap terkurung.",
+"image":"eight_of_swords.png"
+},
+{
+"number":109,
+"name":"Nine of Swords",
+"title":"Sang Bayangan Malam",
+"role":"Pembawa kecemasan dan penyesalan.",
+"traits":"cemas, gelisah, menyesal, lelah",
+"prophecy":"Pikiran yang penuh kekhawatiran dapat mengganggu ketenanganmu. Ketakutan yang muncul sering kali berasal dari bayangan pikiran sendiri.",
+"warning":"Membiarkan kecemasan menguasai pikiran dapat melemahkan dirimu.",
+"image":"nine_of_swords.png"
+},
+{
+"number":110,
+"name":"Ten of Swords",
+"title":"Sang Akhir Menyakitkan",
+"role":"Penutup dari penderitaan yang panjang.",
+"traits":"jatuh, hancur, lelah, berakhir",
+"prophecy":"Sebuah fase sulit akan mencapai titik akhirnya. Walau terasa sangat menyakitkan, dari kehancuran ini akan muncul kesempatan untuk memulai kembali.",
+"warning":"Menganggap akhir sebagai kehancuran total dapat membuatmu kehilangan harapan.",
+"image":"ten_of_swords.png"
+},
+{
+"number":111,
+"name":"Page of Swords",
+"title":"Sang Pengamat Tajam",
+"role":"Pembawa kabar dan rasa ingin tahu.",
+"traits":"penasaran, waspada, cerdas, lincah",
+"prophecy":"Informasi baru atau kabar penting mungkin segera datang. Sikap waspada dan keingintahuanmu dapat membuka pemahaman baru.",
+"warning":"Terlalu cepat bereaksi tanpa memahami situasi dapat menimbulkan kesalahan.",
+"image":"page_of_swords.png"
+},
+{
+"number":112,
+"name":"Knight of Swords",
+"title":"Sang Penyerbu Cepat",
+"role":"Pejuang yang bergerak dengan kecepatan dan tekad.",
+"traits":"agresif, cepat, berani, impulsif",
+"prophecy":"Sebuah tindakan cepat dapat mengubah situasi dengan drastis. Keberanian dan ketegasan akan mendorongmu maju.",
+"warning":"Bertindak terlalu tergesa dapat menimbulkan konflik baru.",
+"image":"knight_of_swords.png"
+},
+{
+"number":113,
+"name":"Queen of Swords",
+"title":"Sang Ratu Ketajaman",
+"role":"Penguasa pikiran yang jernih dan tegas.",
+"traits":"cerdas, mandiri, tajam, objektif",
+"prophecy":"Kejelasan pikiran akan membantumu melihat kebenaran tanpa ilusi. Keputusan yang rasional dapat membawa hasil yang tepat.",
+"warning":"Sikap terlalu dingin dapat membuat orang lain merasa terasing.",
+"image":"queen_of_swords.png"
+},
+{
+"number":114,
+"name":"King of Swords",
+"title":"Sang Raja Logika",
+"role":"Pemimpin yang memerintah dengan kecerdasan.",
+"traits":"rasional, tegas, strategis, berwibawa",
+"prophecy":"Kebijaksanaan dan logika akan menuntun keputusan penting. Situasi menuntut kepemimpinan yang jernih dan objektif.",
+"warning":"Kekuasaan yang hanya didasarkan pada logika dapat kehilangan sisi kemanusiaan.",
+"image":"king_of_swords.png"
+}
+]

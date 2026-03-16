@@ -1,0 +1,221 @@
+[
+{
+"number": 1,
+"name": "The Fool",
+"title": "Sang Pengembara Naif",
+"role": "Sang pemula yang berjalan tanpa rencana.",
+"traits": "naif, spontan, ceroboh, penuh rasa ingin tahu",
+"prophecy": "Langkah yang diambil tanpa pertimbangan dapat membawa kejadian tak terduga. Kecerobohan kecil berpotensi berubah menjadi nasib buruk atau kesalahan yang merugikan.",
+"warning": "Kepercayaan pada keberuntungan saja dapat membuatmu mengabaikan bahaya yang sebenarnya sudah terlihat."
+"image":"the_fool.png"
+},
+{
+"number": 2,
+"name": "The Magician",
+"title": "Sang Penggerak Kehendak",
+"role": "Sang pencipta yang mengubah ide menjadi tindakan.",
+"traits": "cerdas, fokus, percaya diri, manipulatif",
+"prophecy": "Kesempatan muncul melalui kemampuanmu sendiri. Dengan kecerdikan dan kemauan kuat, kamu dapat mengarahkan keadaan menuju hasil yang kamu inginkan.",
+"warning": "Kecerdikan yang digunakan untuk memanipulasi orang lain dapat berbalik merugikan dirimu sendiri."
+"image":"the_Magician.png"
+},
+{
+"number": 3,
+"name": "The High Priestess",
+"title": "Sang Penjaga Rahasia",
+"role": "Sang penjaga pengetahuan tersembunyi.",
+"traits": "tenang, intuitif, misterius, bijaksana",
+"prophecy": "Sebuah kebenaran tersembunyi perlahan akan terungkap. Intuisi dan ketenangan batinmu dapat menuntunmu memahami situasi yang tidak terlihat jelas.",
+"warning": "Mengabaikan suara hatimu dapat membuatmu terjebak dalam kebingungan atau ilusi."
+"image":"the_High_priestess.png"
+},
+{
+"number": 4,
+"name": "The Empress",
+"title": "Sang Ibu Kehidupan",
+"role": "Sang pemberi kehidupan dan pertumbuhan.",
+"traits": "hangat, subur, peduli, penuh kasih",
+"prophecy": "Masa pertumbuhan dan keberlimpahan sedang mendekat. Hubungan, ide, atau usaha yang kamu rawat berpotensi berkembang dengan baik.",
+"warning": "Kenyamanan berlebihan dapat membuatmu terlena dan kehilangan disiplin."
+"image":"the_Empress.png"
+},
+{
+"number": 5,
+"name": "The Emperor",
+"title": "Sang Penguasa Tatanan",
+"role": "Sang pemimpin yang menegakkan aturan.",
+"traits": "tegas, stabil, rasional, dominan",
+"prophecy": "Situasi yang kacau akan menemukan struktur dan kendali. Kepemimpinan atau keputusan tegas akan membawa stabilitas dalam hidupmu.",
+"warning": "Kendali yang terlalu kuat dapat berubah menjadi sikap keras kepala dan otoriter."
+"image":"the_Emperor.png"
+},
+{
+"number": 6,
+"name": "The Hierophant",
+"title": "Sang Penjaga Tradisi",
+"role": "Sang guru yang menjaga nilai dan aturan lama.",
+"traits": "bijak, konservatif, disiplin, spiritual",
+"prophecy": "Nasihat dari tradisi, guru, atau aturan lama dapat membantumu menghadapi situasi saat ini. Mengikuti jalur yang sudah terbukti akan membawa kestabilan.",
+"warning": "Keterikatan pada aturan lama dapat menghambat pemikiran baru."
+"image":"the_Hierophant.png"
+},
+{
+"number": 7,
+"name": "The Lovers",
+"title": "Sang Penentu Hati",
+"role": "Sang penimbang antara dua pilihan.",
+"traits": "romantis, tulus, ragu, emosional",
+"prophecy": "Sebuah keputusan penting yang melibatkan hati akan muncul. Hubungan atau pilihan yang kamu ambil dapat menentukan arah masa depanmu.",
+"warning": "Mengikuti emosi tanpa pertimbangan dapat membawa penyesalan."
+"image":"the_Lovers.png"
+},
+{
+"number": 8,
+"name": "The Chariot",
+"title": "Sang Penakluk Jalan",
+"role": "Sang pejuang yang mengendalikan arah.",
+"traits": "berani, disiplin, ambisius, gigih",
+"prophecy": "Usaha keras dan kendali diri dapat membawamu melewati rintangan. Jika kamu tetap fokus, kemenangan atau kemajuan akan tercapai.",
+"warning": "Ambisi yang ooo kuat dapat membuatmu mengabaikan keseimbangan hidup."
+"image":"the_chariot.png"
+},
+{
+"number": 9,
+"name": "Strength",
+"title": "Sang Penjinak Batin",
+"role": "Sang penguasa kekuatan batin.",
+"traits": "sabar, lembut, berani, penuh kendali diri",
+"prophecy": "Kemenangan sejati datangkan dari ketenangan dan kesabaran. Kelembutan yang kamu tunjukkan mampu meredakan konflik atau kesulitan.",
+"warning": "Menekan emosi terlalu lama dapat membuatnya meledak pada saat yang salah."
+"image":"strength.png"
+},
+{
+"number": 10,
+"name": "The Hermit",
+"title": "Sang Pencari Kebenaran",
+"role": "Sang pengembara yang mencari makna dalam kesunyian.",
+"traits": "pendiam, reflektif, bijaksana, mandiri",
+"prophecy": "Saat untuk menarik diri sejenak dan merenung. Jawaban yang kamu cari mungkin ditemukan dalam keheningan dan pemikiran mendalam.",
+"warning": "Terlalu lama menyendiri dapat membuatmu terputus dari dunia nyata."
+"image":"the_Hermit.png"
+},
+{
+"number": 11,
+"name": "Wheel of Fortune",
+"title": "Roda Nasib",
+"role": "Sang penggerak perubahan tak terduga.",
+"traits": "dinamis, tak pasti, berubah-ubah, menentukan",
+"prophecy": "Sebuah perubahan besar dapat terjadi secara tiba-tiba. Nasib dapat berbalik arah, membawa peluang baru atau tantangan yang tak terduga.",
+"warning": "Mengandalkan keberuntungan semata dapat membuatmu kehilangan kendali atas hidupmu."
+"image":"Wheel_of_Fortune.png"
+},
+{
+"number": 12,
+"name": "Justice",
+"title": "Sang Penimbang Kebenaran",
+"role": "Sang hakim yang menilai dengan adil.",
+"traits": "rasional, objektif, tegas, seimbang",
+"prophecy": "Keputusan penting akan ditentukan oleh keadilan dan kebenaran. Tindakan masa lalu dapat kembali sebagai konsekuensi yang setimpal.",
+"warning": "Menghindari tanggung jawab hanya akan memperburuk hasil akhirnya" ,
+"image":"justice.png"
+},
+{
+"number": 13,
+"name": "The Hanged Man",
+"title": "Sang Pengorbanan",
+"role": "Sang pengamat yang melihat dunia dari sudut berbeda.",
+"traits": "pasrah, reflektif, sabar, kontemplatif",
+"prophecy": "Situasi mungkin terasa tertunda atau terhenti. Namun dari jeda ini kamu bisa memperoleh sudut pandang baru yang mengubah cara memahami masalah.",
+"warning": "Menunggu terlalu lama tanpa tindakan dapat membuat kesempatan hilang."
+"image":"the_fool.png"
+},
+{
+"number": 14,
+"name": "Death",
+"title": "Sang Pengakhir Siklus",
+"role": "Sang pembawa akhir dan awal baru.",
+"traits": "tegas, tak terhindarkan, transformasional, dingin",
+"prophecy": "Sebuah fase dalam hidupmu akan berakhir. Perubahan besar mungkin terasa menakutkan, tetapi dari akhir itu akan muncul awal yang baru.",
+"warning": "Menolak perubahan hanya akan membuat prosesnya lebih menyakitkan."
+"image":"Death.png"
+},
+{
+"number": 15,
+"name": "Temperance",
+"title": "Sang Penjaga Keseimbangan",
+"role": "Sang penyeimbang antara dua kekuatan.",
+"traits": "tenang, harmonis, sabar, moderat",
+"prophecy": "Keseimbangan dan kesabaran akan membawa hasil yang stabil. Menggabungkan dua hal yang berbeda dapat menciptakan solusi yang lebih baik.",
+"warning": "Ketidaksabaran dapat merusak harmoni yang sedang terbentuk."
+"image":"Temperance.png"
+},
+{
+"number": 16,
+"name": "The Devil",
+"title": "Sang Pengikat Hasrat",
+"role": "Sang penguasa godaan dan keterikatan.",
+"traits": "menggoda, dominan, materialistis, memikat",
+"prophecy": "Hasrat kuat atau godaan besar dapat mempengaruhi keputusanmu. Kebebasan yang terasa menyenangkan mungkin sebenarnya membentuk keterikatan yang sulit dilepaskan.",
+"warning": "Menyerah sepenuhnya pada nafsu atau obsesi dapat membuatmu kehilangan kendali atas hidupmu."
+},
+{
+"number": 17,
+"name": "The Tower",
+"title": "Sang Peruntuh Ilusi",
+"role": "Sang penghancur yang mematahkan kepalsuan.",
+"traits": "tiba-tiba, keras, mengguncang, tak terduga",
+"prophecy": "Sebuah kejadian mengejutkan dapat meruntuhkan sesuatu yang selama ini dianggap stabil. Meski terasa menyakitkan, kehancuran itu membuka jalan bagi kebenaran yang baru.",
+"warning": "Mengabaikan tanda bahaya dapat membuat perubahan datang secara lebih keras."
+"image":"the_Tower.png"
+},
+{
+"number": 18,
+"name": "The Star",
+"title": "Sang Cahaya Harapan",
+"role": "Sang penuntun yang memberi harapan.",
+"traits": "optimis, lembut, inspiratif, menenangkan",
+"prophecy": "Harapan dan pemulihan perlahan muncul setelah masa sulit. Sebuah peluang baru dapat memberi arah yang lebih cerah bagi masa depanmu.",
+"warning": "Harapan tanpa tindakan nyata dapat berubah menjadi ilusi kosong."
+"image":"the_Star.png"
+},
+{
+"number": 19,
+"name": "The Moon",
+"title": "Sang Pembawa Bayangan",
+"role": "Sang penguasa mimpi dan ilusi.",
+"traits": "misterius, emosional, samar, intuitif",
+"prophecy": "Situasi yang kamu hadapi mungkin dipenuhi keraguan dan ketidakjelasan. Perasaan dan mimpi dapat memberi petunjuk, tetapi kenyataan belum sepenuhnya terlihat.",
+"warning": "Ilusi dan ketakutan batin dapat menyesatkan keputusanmu."
+"image":"the_Moon.png"
+},
+{
+"number": 20,
+"name": "The Sun",
+"title": "Sang Cahaya Kehidupan",
+"role": "Sang pemberi energi dan kebahagiaan.",
+"traits": "ceriah, jujur, hangat, penuh vitalitas",
+"prophecy": "Keberhasilan dan kebahagiaan terbuka di hadapanmu. Kejujuran dan sikap positif akan membawa hasil yang jelas dan memuaskan.",
+"warning": "Kepercayaan diri yang berlebihan dapat membuatmu meremehkan masalah kecil."
+"image":"the_Sun.png"
+},
+{
+"number": 21,
+"name": "Judgement",
+"title": "Sang Panggilan Jiwa",
+"role": "Sang pembangkit kesadaran baru.",
+"traits": "reflektif, tegas, membebaskan, menentukan",
+"prophecy": "Sebuah momen kesadaran akan mengubah cara kamu melihat masa lalu. Keputusan besar atau kesempatan kedua dapat muncul sebagai titik kebangkitan.",
+"warning": "Mengabaikan pelajaran dari masa lalu dapat membuat kesalahan yang sama terulang."
+"image":"the_Judgement.png"
+},
+{
+"number": 22,
+"name": "The World",
+"title": "Sang Penyempurna Siklus",
+"role": "Sang penutup piiieriiii8jalanan yang mencapai keberhasiijnjjjilan.",
+"traits": "utuh, harmonis, berhasil, lengkap",
+"prophecy": "Sebuah perjalanan panjang mendekati penyelesaian. Pencapaian yang kamu raih membawa rasa utuh dan membuka jalan menuju tahap kehidupan berikutnya.",
+"warning": "Merasa sudah mencapai segalanya dapat membuatmu berhenti berkembang."
+"image":"the_World.png"
+}
+]

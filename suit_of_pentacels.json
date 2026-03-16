@@ -1,0 +1,142 @@
+[
+{
+"number":143,
+"name":"Ace of Pentacles",
+"title":"Sang Benih Kemakmuran",
+"role":"Pembawa awal dari peluang materi dan kestabilan.",
+"traits":"praktis, penuh harapan, realistis, tekun",
+"prophecy":"Sebuah peluang baru yang berkaitan dengan pekerjaan, uang, atau kestabilan hidup mulai muncul. Jika dirawat dengan disiplin, benih ini dapat tumbuh menjadi hasil yang nyata.",
+"warning":"Kesempatan yang baik dapat hilang jika kamu terlalu ragu atau menundanya.",
+"image":"ace_of_pentacles.png"
+},
+{
+"number":144,
+"name":"Two of Pentacles",
+"title":"Sang Penyeimbang",
+"role":"Pengatur berbagai tanggung jawab sekaligus.",
+"traits":"fleksibel, adaptif, sibuk, penuh pertimbangan",
+"prophecy":"Kamu sedang mencoba menjaga keseimbangan antara dua tanggung jawab atau situasi. Kemampuan beradaptasi akan membantumu melewati fase ini.",
+"warning":"Terlalu banyak hal yang kamu tangani sekaligus dapat membuat keseimbanganmu runtuh.",
+"image":"two_of_pentacles.png"
+},
+{
+"number":145,
+"name":"Three of Pentacles",
+"title":"Sang Pembangun",
+"role":"Pekerja yang membangun sesuatu melalui kerjasama.",
+"traits":"rajin, kolaboratif, tekun, terampil",
+"prophecy":"Kerjasama dengan orang lain membawa kemajuan nyata. Usaha yang dilakukan bersama dapat menghasilkan sesuatu yang kokoh dan bernilai.",
+"warning":"Mengabaikan kontribusi orang lain dapat merusak kerja sama yang sudah terbentuk.",
+"image":"three_of_pentacles.png"
+},
+{
+"number":146,
+"name":"Four of Pentacles",
+"title":"Sang Penjaga Kepemilikan",
+"role":"Pelindung kekayaan dan kestabilan yang telah dimiliki.",
+"traits":"hati-hati, protektif, konservatif, kaku",
+"prophecy":"Kamu sedang berusaha mempertahankan apa yang sudah kamu miliki. Stabilitas menjadi prioritas utama dalam keputusanmu.",
+"warning":"Ketakutan kehilangan dapat membuatmu menjadi terlalu kaku dan tertutup.",
+"image":"four_of_pentacles.png"
+},
+{
+"number":147,
+"name":"Five of Pentacles",
+"title":"Sang Kekurangan",
+"role":"Pembawa masa sulit dalam hal materi.",
+"traits":"khawatir, tertekan, rentan, putus asa",
+"prophecy":"Kesulitan keuangan atau rasa kekurangan mungkin terasa nyata. Masa ini menguji ketahananmu dalam menghadapi keterbatasan.",
+"warning":"Terlalu tenggelam dalam rasa putus asa dapat membuatmu tidak melihat bantuan yang sebenarnya ada.",
+"image":"five_of_pentacles.png"
+},
+{
+"number":148,
+"name":"Six of Pentacles",
+"title":"Sang Pemberi dan Penerima",
+"role":"Penjaga keseimbangan antara memberi dan menerima.",
+"traits":"dermawan, adil, membantu, terbuka",
+"prophecy":"Seseorang dapat memberi bantuan atau dukungan yang kamu butuhkan. Hubungan timbal balik yang adil membawa keseimbangan.",
+"warning":"Ketergantungan pada bantuan orang lain dapat melemahkan kemandirianmu.",
+"image":"six_of_pentacles.png"
+},
+{
+"number":149,
+"name":"Seven of Pentacles",
+"title":"Sang Penunggu Hasil",
+"role":"Pengamat yang menilai hasil dari kerja kerasnya.",
+"traits":"sabar, reflektif, tekun, penuh evaluasi",
+"prophecy":"Usaha yang telah kamu lakukan mulai menunjukkan hasil, meskipun belum sepenuhnya terlihat. Kesabaran menjadi kunci dalam fase ini.",
+"warning":"Keraguan terhadap hasil dapat membuatmu menghentikan usaha terlalu cepat.",
+"image":"seven_of_pentacles.png"
+},
+{
+"number":150,
+"name":"Eight of Pentacles",
+"title":"Sang Pengrajin",
+"role":"Pekerja yang terus menyempurnakan keterampilannya.",
+"traits":"fokus, disiplin, tekun, berdedikasi",
+"prophecy":"Kerja keras dan latihan yang konsisten akan membawa peningkatan kemampuan. Dedikasimu dapat menghasilkan hasil yang berkualitas.",
+"warning":"Terlalu tenggelam dalam pekerjaan dapat membuatmu mengabaikan aspek lain dalam hidup.",
+"image":"eight_of_pentacles.png"
+},
+{
+"number":151,
+"name":"Nine of Pentacles",
+"title":"Sang Kemakmuran Mandiri",
+"role":"Penikmat hasil dari kerja kerasnya sendiri.",
+"traits":"mandiri, elegan, percaya diri, stabil",
+"prophecy":"Kemandirian dan kerja kerasmu membawa kenyamanan hidup. Kamu dapat menikmati hasil dari usaha yang telah lama dilakukan.",
+"warning":"Kenyamanan berlebihan dapat membuatmu terisolasi dari orang lain.",
+"image":"nine_of_pentacles.png"
+},
+{
+"number":152,
+"name":"Ten of Pentacles",
+"title":"Sang Warisan Kekayaan",
+"role":"Penjaga kemakmuran jangka panjang.",
+"traits":"stabil, mapan, tradisional, aman",
+"prophecy":"Stabilitas materi dan keamanan jangka panjang dapat tercapai. Usaha yang dilakukan memberi dampak tidak hanya untukmu tetapi juga orang di sekitarmu.",
+"warning":"Terlalu terikat pada tradisi atau keamanan dapat menghambat perubahan yang diperlukan.",
+"image":"ten_of_pentacles.png"
+},
+{
+"number":153,
+"name":"Page of Pentacles",
+"title":"Sang Pelajar Dunia Nyata",
+"role":"Pembawa kesempatan belajar dan berkembang.",
+"traits":"rajin, penasaran, tekun, realistis",
+"prophecy":"Kesempatan untuk belajar keterampilan baru atau memulai sesuatu yang praktis dapat muncul. Ini adalah awal dari perkembangan yang nyata.",
+"warning":"Kurangnya disiplin dapat membuat kesempatan ini tidak berkembang.",
+"image":"page_of_pentacles.png"
+},
+{
+"number":154,
+"name":"Knight of Pentacles",
+"title":"Sang Pekerja Gigih",
+"role":"Penggerak yang bekerja dengan konsistensi tinggi.",
+"traits":"tekun, disiplin, stabil, pekerja keras",
+"prophecy":"Kemajuan akan datang melalui kerja keras yang konsisten. Walau lambat, hasil yang kamu capai akan kokoh dan tahan lama.",
+"warning":"Sikap terlalu kaku pada rutinitas dapat membuatmu sulit beradaptasi.",
+"image":"knight_of_pentacles.png"
+},
+{
+"number":155,
+"name":"Queen of Pentacles",
+"title":"Sang Ratu Kemakmuran",
+"role":"Penjaga keseimbangan antara materi dan kepedulian.",
+"traits":"hangat, praktis, dermawan, stabil",
+"prophecy":"Kestabilan materi dan kepedulian terhadap orang lain dapat berjalan bersamaan. Lingkungan yang nyaman dapat kamu bangun melalui perhatianmu.",
+"warning":"Terlalu mengutamakan kebutuhan orang lain dapat membuatmu melupakan dirimu sendiri.",
+"image":"queen_of_pentacles.png"
+},
+{
+"number":156,
+"name":"King of Pentacles",
+"title":"Sang Penguasa Kemakmuran",
+"role":"Pemimpin yang membangun kekayaan dan kestabilan.",
+"traits":"bijaksana, stabil, disiplin, berwibawa",
+"prophecy":"Pengelolaan yang bijaksana terhadap sumber daya dapat membawa kemakmuran yang stabil. Kepemimpinanmu memberi rasa aman bagi orang lain.",
+"warning":"Terlalu fokus pada materi dapat membuatmu kehilangan keseimbangan hidup.",
+"image":"king_of_pentacles.png"
+}
+]

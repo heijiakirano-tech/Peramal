@@ -1,0 +1,142 @@
+[
+{
+"number":129,
+"name":"Ace of Wands",
+"title":"Sang Percikan Awal",
+"role":"Pembawa awal dari energi dan ambisi baru.",
+"traits":"bersemangat, penuh ide, berani, penuh dorongan",
+"prophecy":"Sebuah ide atau kesempatan baru muncul dan membawa energi kuat untuk memulai sesuatu. Jika segera kamu ambil, langkah awal ini dapat berkembang menjadi pencapaian besar.",
+"warning":"Semangat yang terlalu impulsif dapat membuatmu memulai sesuatu tanpa rencana yang matang.",
+"image":"ace_of_wands.png"
+},
+{
+"number":130,
+"name":"Two of Wands",
+"title":"Sang Perencana Jalan",
+"role":"Pengamat yang merancang langkah besar.",
+"traits":"strategis, penuh pertimbangan, visioner, percaya diri",
+"prophecy":"Sebuah pilihan penting akan muncul di hadapanmu. Perencanaan yang matang dapat membuka jalan menuju peluang yang lebih besar.",
+"warning":"Terlalu lama merencanakan tanpa bertindak dapat membuat kesempatan berlalu.",
+"image":"two_of_wands.png"
+},
+{
+"number":131,
+"name":"Three of Wands",
+"title":"Sang Penjelajah Kesempatan",
+"role":"Penanti hasil dari usaha yang telah dimulai.",
+"traits":"optimis, terbuka, berani, penuh harapan",
+"prophecy":"Usaha yang kamu mulai mulai menunjukkan tanda keberhasilan. Kesempatan baru dapat datang dari arah yang tidak kamu duga.",
+"warning":"Harapan yang terlalu tinggi dapat membuatmu kecewa jika hasilnya tidak sesuai.",
+"image":"three_of_wands.png"
+},
+{
+"number":132,
+"name":"Four of Wands",
+"title":"Sang Perayaan Keberhasilan",
+"role":"Pembawa stabilitas dan kebahagiaan bersama.",
+"traits":"harmonis, stabil, bersyukur, penuh sukacita",
+"prophecy":"Sebuah pencapaian atau keberhasilan kecil dapat dirayakan. Dukungan dari orang di sekitarmu memperkuat rasa aman dan kebahagiaan.",
+"warning":"Merasa terlalu nyaman dapat membuatmu berhenti berkembang.",
+"image":"four_of_wands.png"
+},
+{
+"number":133,
+"name":"Five of Wands",
+"title":"Sang Persaingan",
+"role":"Pembawa konflik kecil dan perbedaan kepentingan.",
+"traits":"kompetitif, penuh energi, keras kepala, reaktif",
+"prophecy":"Persaingan atau perdebatan mungkin muncul di sekitarmu. Situasi ini dapat memacu kemampuanmu untuk berkembang.",
+"warning":"Konflik yang tidak dikendalikan dapat berubah menjadi pertikaian yang merugikan semua pihak.",
+"image":"five_of_wands.png"
+},
+{
+"number":134,
+"name":"Six of Wands",
+"title":"Sang Pemenang",
+"role":"Pembawa pengakuan dan kemenangan.",
+"traits":"percaya diri, dihormati, bangga, penuh semangat",
+"prophecy":"Keberhasilan atau pengakuan atas usaha yang kamu lakukan dapat datang. Orang lain melihat kemampuanmu dan memberi penghargaan.",
+"warning":"Kemenangan dapat membuatmu terlena dan menumbuhkan kesombongan.",
+"image":"six_of_wands.png"
+},
+{
+"number":135,
+"name":"Seven of Wands",
+"title":"Sang Pembela Posisi",
+"role":"Penjaga yang mempertahankan pencapaiannya.",
+"traits":"gigih, berani, defensif, teguh",
+"prophecy":"Kamu mungkin harus mempertahankan posisi atau pendapatmu dari tantangan orang lain. Keteguhan hati akan menjadi kekuatanmu.",
+"warning":"Sikap terlalu defensif dapat membuatmu menolak saran yang sebenarnya berguna.",
+"image":"seven_of_wands.png"
+},
+{
+"number":136,
+"name":"Eight of Wands",
+"title":"Sang Pergerakan Cepat",
+"role":"Pembawa perubahan dan perkembangan yang cepat.",
+"traits":"cepat, dinamis, aktif, penuh momentum",
+"prophecy":"Perkembangan yang cepat akan terjadi dalam situasi yang sedang kamu hadapi. Informasi atau peristiwa datang hampir bersamaan.",
+"warning":"Kecepatan tanpa kendali dapat menyebabkan kesalahan yang sulit diperbaiki.",
+"image":"eight_of_wands.png"
+},
+{
+"number":137,
+"name":"Nine of Wands",
+"title":"Sang Penjaga Ketahanan",
+"role":"Pejuang yang tetap berdiri meski lelah.",
+"traits":"tangguh, waspada, keras, tidak mudah menyerah",
+"prophecy":"Kamu mungkin berada di tahap akhir dari perjuangan panjang. Ketahanan dan kewaspadaan akan membantumu melewati ujian terakhir.",
+"warning":"Kelelahan dapat membuatmu kehilangan fokus dan membuat kesalahan.",
+"image":"nine_of_wands.png"
+},
+{
+"number":138,
+"name":"Ten of Wands",
+"title":"Sang Pemikul Beban",
+"role":"Pembawa tanggung jawab yang berat.",
+"traits":"pekerja keras, terbebani, tekun, tertekan",
+"prophecy":"Beban tanggung jawab yang besar mungkin sedang kamu tanggung. Usaha kerasmu mendekatkanmu pada penyelesaian.",
+"warning":"Memikul terlalu banyak tugas dapat menguras tenaga dan menghambat langkahmu.",
+"image":"ten_of_wands.png"
+},
+{
+"number":139,
+"name":"Page of Wands",
+"title":"Sang Pembawa Semangat Baru",
+"role":"Utusan petualangan dan inspirasi.",
+"traits":"penasaran, berani mencoba, kreatif, energik",
+"prophecy":"Sebuah ide atau petualangan baru dapat muncul. Rasa ingin tahu mendorongmu untuk mencoba hal yang belum pernah dilakukan.",
+"warning":"Antusiasme tanpa arah dapat membuatmu meninggalkan banyak hal yang belum selesai.",
+"image":"page_of_wands.png"
+},
+{
+"number":140,
+"name":"Knight of Wands",
+"title":"Sang Penakluk Ambisi",
+"role":"Penggerak yang mengejar tujuan dengan penuh api.",
+"traits":"berani, impulsif, penuh gairah, agresif",
+"prophecy":"Dorongan kuat untuk bertindak akan muncul. Energi besar mendorongmu untuk mengejar tujuan dengan cepat.",
+"warning":"Tindakan yang terlalu terburu-buru dapat membawa risiko besar.",
+"image":"knight_of_wands.png"
+},
+{
+"number":141,
+"name":"Queen of Wands",
+"title":"Sang Ratu Karisma",
+"role":"Pemimpin yang memancarkan kepercayaan diri.",
+"traits":"karismatik, hangat, percaya diri, kuat",
+"prophecy":"Kepercayaan diri dan daya tarik pribadimu dapat membuka banyak pintu. Orang lain tertarik mengikuti arah yang kamu tunjukkan.",
+"warning":"Kepercayaan diri yang berlebihan dapat berubah menjadi dominasi terhadap orang lain.",
+"image":"queen_of_wands.png"
+},
+{
+"number":142,
+"name":"King of Wands",
+"title":"Sang Pemimpin Visioner",
+"role":"Pemimpin yang mengarahkan ambisi menuju tujuan besar.",
+"traits":"visioner, berani, karismatik, tegas",
+"prophecy":"Kemampuan memimpin dan visi besar dapat membawa keberhasilan nyata. Ide yang kamu rancang memiliki potensi untuk terwujud.",
+"warning":"Ambisi besar tanpa perhatian pada detail dapat menyebabkan kegagalan yang tidak terduga.",
+"image":"king_of_wands.png"
+}
+]

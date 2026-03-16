@@ -1,0 +1,142 @@
+[
+{
+"number":115,
+"name":"Ace of Cups",
+"title":"Sang Sumber Perasaan",
+"role":"Pembuka aliran emosi dan kasih.",
+"traits":"hangat, tulus, penuh harapan, emosional",
+"prophecy":"Perasaan baru atau hubungan yang hangat dapat mulai tumbuh. Sebuah pengalaman emosional membawa kebahagiaan dan kedekatan.",
+"warning":"Membiarkan emosi menguasai logika dapat membuatmu kehilangan keseimbangan.",
+"image":"ace_of_cups.png"
+},
+{
+"number":116,
+"name":"Two of Cups",
+"title":"Sang Ikatan Hati",
+"role":"Pengikat dua jiwa dalam keselarasan.",
+"traits":"harmonis, romantis, tulus, setia",
+"prophecy":"Hubungan yang saling memahami dapat terbentuk atau semakin kuat. Kerjasama dan kepercayaan menjadi dasar dari ikatan ini.",
+"warning":"Ketergantungan emosional yang terlalu kuat dapat membuat hubungan menjadi rapuh.",
+"image":"two_of_cups.png"
+},
+{
+"number":117,
+"name":"Three of Cups",
+"title":"Sang Perayaan",
+"role":"Pembawa kegembiraan dan kebersamaan.",
+"traits":"ceria, sosial, hangat, penuh syukur",
+"prophecy":"Sebuah momen kebahagiaan bersama orang lain akan muncul. Persahabatan dan dukungan sosial memberi energi positif.",
+"warning":"Kesenangan berlebihan dapat membuatmu melupakan tanggung jawab.",
+"image":"three_of_cups.png"
+},
+{
+"number":118,
+"name":"Four of Cups",
+"title":"Sang Perenung",
+"role":"Pengamat yang tenggelam dalam pikirannya sendiri.",
+"traits":"bosan, reflektif, tertutup, pasif",
+"prophecy":"Sebuah peluang mungkin hadir tetapi sulit kamu sadari. Perasaan jenuh membuatmu kurang peka terhadap kesempatan baru.",
+"warning":"Terlalu fokus pada kekecewaan dapat membuatmu melewatkan hal baik di sekitarmu.",
+"image":"four_of_cups.png"
+},
+{
+"number":119,
+"name":"Five of Cups",
+"title":"Sang Penyesalan",
+"role":"Pembawa kesedihan atas kehilangan.",
+"traits":"sedih, menyesal, emosional, murung",
+"prophecy":"Kekecewaan atau kehilangan mungkin terasa berat. Namun masih ada hal yang tersisa yang dapat kamu bangun kembali.",
+"warning":"Terjebak dalam penyesalan dapat menghalangi langkah menuju pemulihan.",
+"image":"five_of_cups.png"
+},
+{
+"number":120,
+"name":"Six of Cups",
+"title":"Sang Kenangan",
+"role":"Pembawa nostalgia dan kenangan masa lalu.",
+"traits":"hangat, polos, sentimental, lembut",
+"prophecy":"Kenangan lama atau seseorang dari masa lalu dapat kembali muncul. Perasaan nostalgia membawa kehangatan dan refleksi.",
+"warning":"Terlalu terikat pada masa lalu dapat menghambat pertumbuhan masa depan.",
+"image":"six_of_cups.png"
+},
+{
+"number":121,
+"name":"Seven of Cups",
+"title":"Sang Pemimpi",
+"role":"Penjelajah berbagai kemungkinan dan ilusi.",
+"traits":"imajinatif, ragu, penuh harapan, bingung",
+"prophecy":"Banyak pilihan atau kemungkinan akan muncul di hadapanmu. Namun tidak semuanya nyata atau dapat dipercaya.",
+"warning":"Terlalu tenggelam dalam fantasi dapat membuatmu kehilangan arah.",
+"image":"seven_of_cups.png"
+},
+{
+"number":122,
+"name":"Eight of Cups",
+"title":"Sang Pencari Jalan Baru",
+"role":"Pengembara yang meninggalkan sesuatu yang lama.",
+"traits":"tegas, reflektif, berani, melangkah pergi",
+"prophecy":"Kamu mungkin memilih meninggalkan sesuatu yang tidak lagi memberi makna. Perjalanan baru dapat dimulai dengan keberanian itu.",
+"warning":"Pergi tanpa memahami alasan terdalam dapat menimbulkan penyesalan.",
+"image":"eight_of_cups.png"
+},
+{
+"number":123,
+"name":"Nine of Cups",
+"title":"Sang Kepuasan",
+"role":"Pembawa rasa syukur dan pemenuhan keinginan.",
+"traits":"puas, bahagia, percaya diri, santai",
+"prophecy":"Keinginan yang lama kamu harapkan berpotensi tercapai. Perasaan puas dan kebahagiaan menyertai pencapaian ini.",
+"warning":"Kepuasan berlebihan dapat berubah menjadi kesombongan atau kemalasan.",
+"image":"nine_of_cups.png"
+},
+{
+"number":124,
+"name":"Ten of Cups",
+"title":"Sang Harmoni Keluarga",
+"role":"Penjaga kebahagiaan dan kedamaian bersama.",
+"traits":"harmonis, damai, penuh kasih, stabil",
+"prophecy":"Kehangatan hubungan dan kebahagiaan emosional dapat tercapai. Lingkungan yang penuh dukungan memberi rasa aman.",
+"warning":"Mengabaikan masalah kecil dapat mengganggu harmoni yang terlihat sempurna.",
+"image":"ten_of_cups.png"
+},
+{
+"number":125,
+"name":"Page of Cups",
+"title":"Sang Pembawa Pesan Hati",
+"role":"Utusan emosi dan kreativitas baru.",
+"traits":"sensitif, kreatif, lembut, penasaran",
+"prophecy":"Sebuah pesan emosional atau inspirasi kreatif dapat muncul. Kepekaanmu membantu memahami perasaan orang lain.",
+"warning":"Terlalu mudah terbawa perasaan dapat membuatmu rentan terluka.",
+"image":"page_of_cups.png"
+},
+{
+"number":126,
+"name":"Knight of Cups",
+"title":"Sang Pengejar Impian",
+"role":"Pengembara yang mengikuti panggilan hati.",
+"traits":"romantis, idealis, penuh perasaan, berani",
+"prophecy":"Sebuah perjalanan yang dipandu oleh perasaan dan impian akan terbuka. Keberanian mengikuti hati dapat membawa pengalaman berarti.",
+"warning":"Impian yang tidak realistis dapat membuatmu kecewa.",
+"image":"knight_of_cups.png"
+},
+{
+"number":127,
+"name":"Queen of Cups",
+"title":"Sang Ratu Empati",
+"role":"Penjaga kebijaksanaan emosional.",
+"traits":"empatik, lembut, intuitif, penyayang",
+"prophecy":"Kepekaan dan empati akan membantumu memahami situasi dengan lebih dalam. Hubungan emosional dapat menjadi sumber kekuatan.",
+"warning":"Terlalu menyerap emosi orang lain dapat menguras energimu.",
+"image":"queen_of_cups.png"
+},
+{
+"number":128,
+"name":"King of Cups",
+"title":"Sang Raja Kedewasaan Emosi",
+"role":"Pemimpin yang menguasai perasaan dengan bijak.",
+"traits":"tenang, bijaksana, stabil, pengendali diri",
+"prophecy":"Keseimbangan antara perasaan dan kebijaksanaan akan membimbing keputusan penting. Keteguhan emosional membawa kestabilan.",
+"warning":"Menekan perasaan terlalu kuat dapat membuatmu terlihat dingin atau jauh."
+,"image":"king_of_cups.png"
+}
+]

@@ -1,0 +1,71 @@
+{
+  "project": {
+    "name": "ARTIX Tarot Identity System",
+    "type": "Tarot-based Identity Game Database",
+    "version": "1.0.0",
+    "status": "development",
+    "author": "Kenji",
+    "created_year": 2026
+  },
+
+  "card_system": {
+    "total_cards": 78,
+    "major_arcana": 22,
+    "minor_arcana": 56,
+    "minor_suits": [
+      "wands",
+      "cups",
+      "pentacles",
+      "swords"
+    ]
+  },
+
+  "distribution": {
+    "day_combination": {
+      "groups": 7,
+      "cards_per_group": 2,
+      "total_cards": 14,
+      "arcana_type": "major"
+    },
+
+    "zodiac_combination": {
+      "groups": 12,
+      "max_cards_per_group": 4,
+      "total_major_cards": 8,
+      "total_minor_cards": 36,
+      "total_cards": 44
+    },
+
+    "alphabet_combination": {
+      "groups": 8,
+      "cards_per_group": 3,
+      "total_cards": 24,
+      "arcana_type": "minor"
+    }
+  },
+
+  "player_system": {
+    "cards_generated_per_player": 3,
+    "generation_logic": [
+      "Card 1 = Day Combination",
+      "Card 2 = Zodiac Combination",
+      "Card 3 = Alphabet Combination"
+    ]
+  },
+
+  "validation_rules": {
+    "major_cards_used": 22,
+    "minor_cards_used": 56,
+    "day_cards": 14,
+    "zodiac_cards": 44,
+    "alphabet_cards": 24,
+    "total_distribution": 78
+  },
+
+  "database_structure": {
+    "cards_file": "cards.json", "major_arcana.json", "minor_arcana json", "suit_of_wand.json" "suit_of_cups.json","suit_of_swords.json", "suit_of_pentacels.json"
+    "day_combination_file": "combination_day.json",
+    "zodiac_combination_file": "combination_zodiac.json",
+    "alphabet_combination_file": "combination_alphabet.json"
+  }
+}

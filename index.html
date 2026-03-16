@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fortune - Baca Takdirmu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="opening">
+        <button class="fortuneButton" onclick="openInput()">Fortune</button>
+    </div>
+
+    <div id="inputScreen" style="display: none;">
+        <div class="inputContainer">
+            <input type="text" class="inputBox" placeholder="Masukkan nama" id="userName">
+            
+            <div class="dateRow">
+                <input type="number" class="inputBox" placeholder="DD" min="1" max="31" id="day">
+                <input type="number" class="inputBox" placeholder="MM" min="1" max="12" id="month">
+                <input type="number" class="inputBox" placeholder="YY" min="0" max="99" id="year">
+            </div>
+
+            <select id="daySelect">
+                <option value="">Hari ini hari apa</option>
+                <option value="Senin">Senin</option>
+                <option value="Selasa">Selasa</option>
+                <option value="Rabu">Rabu</option>
+                <option value="Kamis">Kamis</option>
+                <option value="Jumat">Jumat</option>
+                <option value="Sabtu">Sabtu</option>
+                <option value="Minggu">Minggu</option>
+            </select>
+
+            <button class="readyButton" onclick="startLoading()">Ready</button>
+        </div>
+    </div>
+
+    <div id="loadingScreen" style="display: none;">
+        <div class="cardsContainer">
+            <div class="card" data-card="1"></div>
+            <div class="card" data-card="2"></div>
+            <div class="card" data-card="3"></div>
+        </div>
+        <div class="loadingText">Sedang memuat keajaiban...</div>
+    </div>
+
+    <div id="resultScreen" style="display: none;">
+        <div class="carousel-container">
+            <div class="slides" id="slidesTrack">
+                </div>
+
+            <button class="nav-maroon-btn" style="right: auto; left: 20px;" onclick="prevSlide()">❮</button>
+            <button class="nav-maroon-btn" onclick="nextSlide()">❯</button>
+        </div>
+        
+        <button class="readyButton" onclick="location.reload()" style="margin-top: 25px;">Coba Lagi</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
